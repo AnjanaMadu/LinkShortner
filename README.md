@@ -6,6 +6,7 @@ A simple Webapp + API to short long links. Written in Go Lang and SQL.
 
 - Web UI
 - API for Devs
+- Admin Panel
 - Using SQL
 
 ## Installation
